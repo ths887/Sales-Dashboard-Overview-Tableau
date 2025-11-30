@@ -4,7 +4,10 @@ This project showcases an interactive **Sales Performance Dashboard** built usin
 
 The dashboard helps users compare **Current Year (CY) vs Previous Year (PY)** performance using advanced KPI tracking, trend analysis, and state-level insights.
 
+![Sales Dashboard Overview | Tableau]()
+
 ---
+
 
 ## 🎯 Project Objectives
 
